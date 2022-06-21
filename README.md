@@ -4,7 +4,7 @@
 
 ## 漫源链接
 
-- 书源：`34`个书源
+- 书源：`25`个书源
 - 复制下面链接，在阅读里`网络导入`
 - https://github.com/manxiangyuan/manxiangyuan/blob/main/All.json
 
